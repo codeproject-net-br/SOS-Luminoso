@@ -2,8 +2,6 @@
 
 Você já deve ter visto nos filmes quando as pessoas enviam pedido de socorro SOS em código morse. Neste projeto iremos piscar um LED no padrão SOS. A letra S são 3 piscadas curtas indicando o ponto do código morse e a letra O são 3 piscadas um pouco mais longas indicando o traço do código morse.
 
-<img src="" width="100%">
-
 <img src="https://uploads.filipeflop.com/2018/12/PROJETO002.gif" width="100%">
 
 Este projeto mostra que, através da programação, podemos piscar o LED de diferentes maneiras e intervalos de tempo.
